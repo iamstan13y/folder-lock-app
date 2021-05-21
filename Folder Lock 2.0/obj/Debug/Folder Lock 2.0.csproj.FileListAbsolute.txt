@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\bin\Debug\Folder Lock 2.0.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\bin\Debug\Folder Lock 2.0.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\obj\Debug\Folder Lock 2.0.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\obj\Debug\Folder_Lock_2._0.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\obj\Debug\Folder Lock 2.0.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\obj\Debug\Folder Lock 2.0.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\obj\Debug\Folder Lock 2.0.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\obj\Debug\Folder_Lock_2._0.frmMain.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\obj\Debug\Folder Lock 2.0.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2015\Projects\Folder Lock 2.0\Folder Lock 2.0\bin\Debug\Folder Lock 2.0.exe.config
